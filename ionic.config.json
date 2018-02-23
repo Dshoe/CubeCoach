@@ -1,0 +1,8 @@
+{
+  "name": "CubeCoach",
+  "app_id": "6ce28904",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
