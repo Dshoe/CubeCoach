@@ -1,7 +1,7 @@
 {
   "name": "CubeCoach",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
+  "version": "0.0.0",
+  "author": "Devin Shoemaker",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
@@ -55,5 +55,5 @@
     "ts-node": "^5.0.1",
     "typescript": "2.4.2"
   },
-  "description": "An Ionic project"
+  "description": "An app that teaches speedsolving algorithms."
 }
